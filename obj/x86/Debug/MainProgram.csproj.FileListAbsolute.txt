@@ -1,0 +1,6 @@
+I:\Education (important) and work\Programmir\C#\Skillfactory\Skillfactory_Module\bin\Debug\ConsoleApplication.exe
+I:\Education (important) and work\Programmir\C#\Skillfactory\Skillfactory_Module\bin\Debug\ConsoleApplication.pdb
+I:\Education (important) and work\Programmir\C#\Skillfactory\Skillfactory_Module\obj\x86\Debug\MainProgram.csproj.AssemblyReference.cache
+I:\Education (important) and work\Programmir\C#\Skillfactory\Skillfactory_Module\obj\x86\Debug\MainProgram.csproj.CoreCompileInputs.cache
+I:\Education (important) and work\Programmir\C#\Skillfactory\Skillfactory_Module\obj\x86\Debug\ConsoleApplication.exe
+I:\Education (important) and work\Programmir\C#\Skillfactory\Skillfactory_Module\obj\x86\Debug\ConsoleApplication.pdb
