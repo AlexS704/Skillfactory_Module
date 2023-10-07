@@ -1,0 +1,14 @@
+I:\Education (important) and work\Programmir\C#\Skillfactory\Skillfactory_Module\Из модуля 3_v1\Из модуля 3_v1\bin\Debug\net6.0\Из модуля 3_v1.exe
+I:\Education (important) and work\Programmir\C#\Skillfactory\Skillfactory_Module\Из модуля 3_v1\Из модуля 3_v1\bin\Debug\net6.0\Из модуля 3_v1.deps.json
+I:\Education (important) and work\Programmir\C#\Skillfactory\Skillfactory_Module\Из модуля 3_v1\Из модуля 3_v1\bin\Debug\net6.0\Из модуля 3_v1.runtimeconfig.json
+I:\Education (important) and work\Programmir\C#\Skillfactory\Skillfactory_Module\Из модуля 3_v1\Из модуля 3_v1\bin\Debug\net6.0\Из модуля 3_v1.dll
+I:\Education (important) and work\Programmir\C#\Skillfactory\Skillfactory_Module\Из модуля 3_v1\Из модуля 3_v1\bin\Debug\net6.0\Из модуля 3_v1.pdb
+I:\Education (important) and work\Programmir\C#\Skillfactory\Skillfactory_Module\Из модуля 3_v1\Из модуля 3_v1\obj\Debug\net6.0\Из модуля 3_v1.GeneratedMSBuildEditorConfig.editorconfig
+I:\Education (important) and work\Programmir\C#\Skillfactory\Skillfactory_Module\Из модуля 3_v1\Из модуля 3_v1\obj\Debug\net6.0\Из модуля 3_v1.AssemblyInfoInputs.cache
+I:\Education (important) and work\Programmir\C#\Skillfactory\Skillfactory_Module\Из модуля 3_v1\Из модуля 3_v1\obj\Debug\net6.0\Из модуля 3_v1.AssemblyInfo.cs
+I:\Education (important) and work\Programmir\C#\Skillfactory\Skillfactory_Module\Из модуля 3_v1\Из модуля 3_v1\obj\Debug\net6.0\Из модуля 3_v1.csproj.CoreCompileInputs.cache
+I:\Education (important) and work\Programmir\C#\Skillfactory\Skillfactory_Module\Из модуля 3_v1\Из модуля 3_v1\obj\Debug\net6.0\Из модуля 3_v1.dll
+I:\Education (important) and work\Programmir\C#\Skillfactory\Skillfactory_Module\Из модуля 3_v1\Из модуля 3_v1\obj\Debug\net6.0\refint\Из модуля 3_v1.dll
+I:\Education (important) and work\Programmir\C#\Skillfactory\Skillfactory_Module\Из модуля 3_v1\Из модуля 3_v1\obj\Debug\net6.0\Из модуля 3_v1.pdb
+I:\Education (important) and work\Programmir\C#\Skillfactory\Skillfactory_Module\Из модуля 3_v1\Из модуля 3_v1\obj\Debug\net6.0\Из модуля 3_v1.genruntimeconfig.cache
+I:\Education (important) and work\Programmir\C#\Skillfactory\Skillfactory_Module\Из модуля 3_v1\Из модуля 3_v1\obj\Debug\net6.0\ref\Из модуля 3_v1.dll
