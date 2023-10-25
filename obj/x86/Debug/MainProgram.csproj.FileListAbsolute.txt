@@ -4,3 +4,10 @@ I:\Education (important) and work\Programmir\C#\Skillfactory\Skillfactory_Module
 I:\Education (important) and work\Programmir\C#\Skillfactory\Skillfactory_Module\obj\x86\Debug\MainProgram.csproj.CoreCompileInputs.cache
 I:\Education (important) and work\Programmir\C#\Skillfactory\Skillfactory_Module\obj\x86\Debug\ConsoleApplication.exe
 I:\Education (important) and work\Programmir\C#\Skillfactory\Skillfactory_Module\obj\x86\Debug\ConsoleApplication.pdb
+D:\SkillFactory\bin\Debug\ConsoleApplication.exe.config
+D:\SkillFactory\bin\Debug\ConsoleApplication.exe
+D:\SkillFactory\bin\Debug\ConsoleApplication.pdb
+D:\SkillFactory\obj\x86\Debug\MainProgram.csproj.AssemblyReference.cache
+D:\SkillFactory\obj\x86\Debug\MainProgram.csproj.CoreCompileInputs.cache
+D:\SkillFactory\obj\x86\Debug\ConsoleApplication.exe
+D:\SkillFactory\obj\x86\Debug\ConsoleApplication.pdb

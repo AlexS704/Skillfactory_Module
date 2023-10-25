@@ -1,0 +1,14 @@
+D:\SkillFactory\Из модуля 3_v1\AssignmentsFromTheWorkshopMod 4\AssignmentsFromTheWorkshopMod 4\bin\Debug\net6.0\AssignmentsFromTheWorkshopMod 4.exe
+D:\SkillFactory\Из модуля 3_v1\AssignmentsFromTheWorkshopMod 4\AssignmentsFromTheWorkshopMod 4\bin\Debug\net6.0\AssignmentsFromTheWorkshopMod 4.deps.json
+D:\SkillFactory\Из модуля 3_v1\AssignmentsFromTheWorkshopMod 4\AssignmentsFromTheWorkshopMod 4\bin\Debug\net6.0\AssignmentsFromTheWorkshopMod 4.runtimeconfig.json
+D:\SkillFactory\Из модуля 3_v1\AssignmentsFromTheWorkshopMod 4\AssignmentsFromTheWorkshopMod 4\bin\Debug\net6.0\AssignmentsFromTheWorkshopMod 4.dll
+D:\SkillFactory\Из модуля 3_v1\AssignmentsFromTheWorkshopMod 4\AssignmentsFromTheWorkshopMod 4\bin\Debug\net6.0\AssignmentsFromTheWorkshopMod 4.pdb
+D:\SkillFactory\Из модуля 3_v1\AssignmentsFromTheWorkshopMod 4\AssignmentsFromTheWorkshopMod 4\obj\Debug\net6.0\AssignmentsFromTheWorkshopMod 4.GeneratedMSBuildEditorConfig.editorconfig
+D:\SkillFactory\Из модуля 3_v1\AssignmentsFromTheWorkshopMod 4\AssignmentsFromTheWorkshopMod 4\obj\Debug\net6.0\AssignmentsFromTheWorkshopMod 4.AssemblyInfoInputs.cache
+D:\SkillFactory\Из модуля 3_v1\AssignmentsFromTheWorkshopMod 4\AssignmentsFromTheWorkshopMod 4\obj\Debug\net6.0\AssignmentsFromTheWorkshopMod 4.AssemblyInfo.cs
+D:\SkillFactory\Из модуля 3_v1\AssignmentsFromTheWorkshopMod 4\AssignmentsFromTheWorkshopMod 4\obj\Debug\net6.0\AssignmentsFromTheWorkshopMod 4.csproj.CoreCompileInputs.cache
+D:\SkillFactory\Из модуля 3_v1\AssignmentsFromTheWorkshopMod 4\AssignmentsFromTheWorkshopMod 4\obj\Debug\net6.0\AssignmentsFromTheWorkshopMod 4.dll
+D:\SkillFactory\Из модуля 3_v1\AssignmentsFromTheWorkshopMod 4\AssignmentsFromTheWorkshopMod 4\obj\Debug\net6.0\refint\AssignmentsFromTheWorkshopMod 4.dll
+D:\SkillFactory\Из модуля 3_v1\AssignmentsFromTheWorkshopMod 4\AssignmentsFromTheWorkshopMod 4\obj\Debug\net6.0\AssignmentsFromTheWorkshopMod 4.pdb
+D:\SkillFactory\Из модуля 3_v1\AssignmentsFromTheWorkshopMod 4\AssignmentsFromTheWorkshopMod 4\obj\Debug\net6.0\AssignmentsFromTheWorkshopMod 4.genruntimeconfig.cache
+D:\SkillFactory\Из модуля 3_v1\AssignmentsFromTheWorkshopMod 4\AssignmentsFromTheWorkshopMod 4\obj\Debug\net6.0\ref\AssignmentsFromTheWorkshopMod 4.dll
